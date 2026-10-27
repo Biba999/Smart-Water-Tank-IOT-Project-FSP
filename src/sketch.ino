@@ -1,4 +1,5 @@
-// --- Blynk Credentials (MUST BE AT THE VERY TOP) ---
+// --- Blynk Credentials ---
+// (Replace the placeholder credentials (BLYNK_TEMPLATE_ID, BLYNK_TEMPLATE_NAME, BLYNK_AUTH_TOKEN) with yours from Blynk) 
 #define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Smart Water Tank System"
 #define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN_HERE"
