@@ -1,3 +1,5 @@
+FSP Project for CSE(AIML) 5B group-7
+
 # IoT Smart Water Tank Level Monitoring & Overflow Prevention System
 
 An IoT-based embedded system that continuously monitors water levels inside a reservoir, automatically prevents tank overflow by tripping a relay-controlled pump, and streams live telemetry to a cloud dashboard (Blynk IoT). Designed and validated via virtual simulation using the ESP32 microcontroller in Wokwi.
